@@ -28,6 +28,6 @@ Currently we have adapted DTH11 or DTH22 humidity and temperature sensors as wel
 - firmware to connect to Tinovi cloud services
 - Size 98*95mm
 
-[Tinovi Shop](https://tinovi.com/product-category/telemetry/telemetry-devices/)
+[Tinovi Shop](https://www.tindie.com/stores/tinovi/)
 
 ![GSM](GSM.png)
